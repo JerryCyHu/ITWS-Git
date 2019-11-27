@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Atom Feed</title>
+  <link href="https://afsws.rpi.edu/AFS/home/52/huc3/public_html/iit/projects/atom1.0.xml/"/>
+  <updated>2019-10-09T12:40:04-06:59</updated>
+  <id>https://afsws.rpi.edu/AFS/home/52/huc3/public_html/iit/projects/atom1.0.xml</id>
+  <author>
+  <name>Jerry Hu</name>
+  <uri>https://afsws.rpi.edu/AFS/home/52/huc3/public_html/iit/</uri>
+  </author>
+
+  <entry>
+    <title>Zhi Hu Home Page</title>
+    <link href="https://www.zhihu.com/explore/"/>
+    <summary>Education Web</summary>
+    <updated>2019-10-09T12:40:04-07:00</updated>
+    <id>https://www.zhihu.com/explore/</id>
+  </entry>
+
+  <entry>
+    <title>NASA Home Page</title>
+    <link href="https://www.nasa.gov/"/>
+    <summary>NASA</summary>
+    <updated>2019-10-09T12:40:04-07:01</updated>
+    <id>https://www.nasa.gov/</id>
+  </entry>
+
+  <entry>
+    <title>Techcrunch Home Page</title>
+    <link href="https://techcrunch.com/"/>
+    <summary>Technology News Web</summary>
+    <updated>2019-10-09T12:40:04-07:02</updated>
+    <id>https://techcrunch.com/</id>
+  </entry>
+
+  <entry>
+    <title>W3School China</title>
+    <link href="https://www.w3school.com.cn/"/>
+    <summary>W3School's Chinese Version</summary>
+    <updated>2019-10-09T12:40:04-07:03</updated>
+    <id>https://www.w3school.com.cn/</id>
+  </entry>
+
+  <entry>
+    <title>Data Structure Class</title>
+    <link href="https://www.cs.rpi.edu/academics/courses/fall19/csci1200/"/>
+    <summary>Data Structure Website</summary>
+    <updated>2019-10-09T12:40:04-07:04</updated>
+    <id>https://www.cs.rpi.edu/academics/courses/fall19/csci1200/</id>
+  </entry>
+
+</feed>

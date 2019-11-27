@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version = "2.0">
+
+<channel>
+
+	<title>RSS feed</title>
+    <link>https://afsws.rpi.edu/AFS/home/52/huc3/public_html/iit/projects/rss2.0.xml</link>
+    <description>RSS 2.0</description>
+
+	<item>
+		<title>Zhi Hu Home Page</title>
+		<link>https://www.zhihu.com/explore</link>
+		<description>Education Web</description>
+	</item>
+
+	<item>
+		<title>NASA Home Page</title>
+		<link>https://www.nasa.gov</link>
+		<description>NASA</description>
+	</item>
+
+	<item>
+		<title>Techcrunch Home Page</title>
+		<link>https://techcrunch.com/</link>
+		<description>Technology News Web</description>
+	</item>
+
+	<item>
+		<title>W3School China</title>
+        <link>https://www.w3school.com.cn</link>
+        <description>W3School's Chinese Version</description>
+	</item>
+
+	<item>
+		<title>Data Structure Class</title>
+        <link>https://www.cs.rpi.edu/academics/courses/fall19/csci1200/</link>
+        <description>Data Structure Website</description>
+	</item>
+</channel>
+
+</rss>
